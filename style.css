@@ -1,0 +1,35 @@
+@import url(reset.css);
+.clone {
+    background-color: #b3d4fc;
+    color: red;
+}
+.app {
+    background-color: #369;
+}
+.app .form {
+    padding: 20px;
+    box-shadow: 0 2px 2px 0 black;
+}
+.app .container {
+    display: flex;
+}
+.app .container. leftBar {
+    width: 200px;
+    padding: 20px;
+}
+.app .container .content {
+    background-color: #fff;
+    padding: 20px;
+    flex-grow: 1;
+}
+.app .leftBar .student {
+    padding: 20px;
+    background-color: #396;
+    margin: 3px;
+}
+.app .leftBar .student .active {
+    background-color: #963;
+}
+.leftBar {
+    width: 400px;
+}
